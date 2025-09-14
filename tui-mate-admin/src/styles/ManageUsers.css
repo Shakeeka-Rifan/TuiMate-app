@@ -1,0 +1,39 @@
+.admin-table-container {
+  padding: 40px;
+}
+
+.admin-table-container h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.search-box {
+  padding: 10px;
+  width: 280px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.edit-btn,
+.delete-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  margin-right: 10px;
+}
