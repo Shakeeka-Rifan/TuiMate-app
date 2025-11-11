@@ -5,25 +5,27 @@ A mobile application that connects students with nearby tutors using AI-based
 preference matching and GPS tracking. Built with React Native, Node.js,
 MongoDB, and Firebase.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9c56b813-53d3-4a15-b3a1-5f18118b11f7"
-       alt="TuiMate Get Started Screen"
-       width="250"
-       style="border: 1px solid #ccc; border-radius: 10px; margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/cdbe12f1-645d-436e-8ef9-b8958c60c951"
-       alt="TuiMate Role Selection Screen"
-       width="250"
-       style="border: 1px solid #ccc; border-radius: 10px;" />
-</p>
+<table align="center">
+<tr>
+<td align="center" style="padding:10px; background-color:#f5f5f5; border: 1px solid #ddd;">
+<img src="https://github.com/user-attachments/assets/9c56b813-53d3-4a15-b3a1-5f18118b11f7" width="250" alt="TuiMate Get Started Screen"/>
+</td>
+<td align="center" style="padding:10px; background-color:#f5f5f5; border: 1px solid #ddd;">
+<img src="https://github.com/user-attachments/assets/cdbe12f1-645d-436e-8ef9-b8958c60c951" width="250" alt="TuiMate Role Selection Screen"/>
+</td>
+</tr>
+</table>
+
+<p align="center"><em>Get Started and Role Selection Screens</em></p>
 
 
 
-🎯Overview
+# 🎯Overview
 
 TuiMate is a mobile and web-based application designed to connect students with local tutors using AI-based matching and GPS location tracking.
 It simplifies the process of finding qualified tutors based on subject preferences, class type, schedule, and location proximity.
 
-🚀 Key Features
+# 🚀 Key Features
 
    📍 Location-Based Search: Find nearby tutors using GPS integration.
 
@@ -39,7 +41,7 @@ It simplifies the process of finding qualified tutors based on subject preferenc
 
    🔔 Notifications: In-app and email alerts for booking status and tutor approvals.
 
-🧩 Tech Stack
+# 🧩 Tech Stack
 
 Category	Technology
 Frontend	React Native (Mobile App), React.js (Admin Panel)
@@ -47,7 +49,7 @@ Backend	Node.js, Express.js
 Database	MongoDB Atlas
 Authentication	JWT, Firebase
 Other Tools	Nodemailer (Email), Expo Location API (Reverse Geolocation)
-🗂️ Project Structure
+# 🗂️ Project Structure
 TuiMate-app/
 │
 ├── tui-mate-frontend/       # React Native app for students and tutors
@@ -56,7 +58,7 @@ TuiMate-app/
 ├── package.json
 └── README.md
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 
 1️⃣ Clone the Repository
 git clone https://github.com/Shakeeka-Rifan/TuiMate-app.git
@@ -81,19 +83,19 @@ npm start
 cd tui-mate-admin
 npm start
 
-📱 Main Modules
+# 📱 Main Modules
 
 Student Module: Signup/Login, Preference Form, AI-based Tutor Recommendations, Bookings, Dashboard.
 Tutor Module: Signup/Login, Class Creation, Booking Management, Ratings & Reviews.
 Admin Module: Tutor Approval, User Management, Analytics, Feedback Review.
 
-🧮 AI Matching Logic
+# 🧮 AI Matching Logic
 
 Uses student preferences (subject, class type, study time, and location).
 Filters tutors with matching fields in MongoDB.
 Returns ranked tutor recommendations with highest match scores.
 
-🔒 Security
+# 🔒 Security
 
 JWT-based authentication for secure access.
 Tutor verification via admin approval before account activation.
