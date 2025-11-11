@@ -1,3 +1,7 @@
+![Image](https://github.com/user-attachments/assets/9c56b813-53d3-4a15-b3a1-5f18118b11f7)
+
+![Image](https://github.com/user-attachments/assets/cdbe12f1-645d-436e-8ef9-b8958c60c951)
+
 🎯Overview
 
 TuiMate is a mobile and web-based application designed to connect students with local tutors using AI-based matching and GPS location tracking.
