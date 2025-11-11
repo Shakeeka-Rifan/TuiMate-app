@@ -1,8 +1,10 @@
 🎯Overview
+
 TuiMate is a mobile and web-based application designed to connect students with local tutors using AI-based matching and GPS location tracking.
 It simplifies the process of finding qualified tutors based on subject preferences, class type, schedule, and location proximity.
 
 🚀 Key Features
+
    📍 Location-Based Search: Find nearby tutors using GPS integration.
 
    🤖 AI Tutor Matching: Smart recommendations based on student preferences and learning style.
@@ -18,6 +20,7 @@ It simplifies the process of finding qualified tutors based on subject preferenc
    🔔 Notifications: In-app and email alerts for booking status and tutor approvals.
 
 🧩 Tech Stack
+
 Category	Technology
 Frontend	React Native (Mobile App), React.js (Admin Panel)
 Backend	Node.js, Express.js
@@ -34,6 +37,7 @@ TuiMate-app/
 └── README.md
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/Shakeeka-Rifan/TuiMate-app.git
 cd TuiMate-app
@@ -58,16 +62,19 @@ cd tui-mate-admin
 npm start
 
 📱 Main Modules
+
 Student Module: Signup/Login, Preference Form, AI-based Tutor Recommendations, Bookings, Dashboard.
 Tutor Module: Signup/Login, Class Creation, Booking Management, Ratings & Reviews.
 Admin Module: Tutor Approval, User Management, Analytics, Feedback Review.
 
 🧮 AI Matching Logic
+
 Uses student preferences (subject, class type, study time, and location).
 Filters tutors with matching fields in MongoDB.
 Returns ranked tutor recommendations with highest match scores.
 
 🔒 Security
+
 JWT-based authentication for secure access.
 Tutor verification via admin approval before account activation.
 Encrypted data transmission between frontend and backend.
