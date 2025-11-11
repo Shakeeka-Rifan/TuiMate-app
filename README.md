@@ -1,5 +1,5 @@
 
-![TuiMate Banner](https://github.com/user-attachments/assets/17e68602-227b-499d-bc08-08e7f7d11188
+![TuiMate Banner](https://github.com/user-attachments/assets/a4e350ab-b307-4073-9490-482cd38cd456
 )
 
 # TuiMate – AI-powered Tuition Finder App
