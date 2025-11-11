@@ -1,4 +1,12 @@
+
+![TuiMate Banner](https://github.com/user-attachments/assets/17e68602-227b-499d-bc08-08e7f7d11188
+)
+
 # TuiMate – AI-powered Tuition Finder App
+A mobile application that connects students with nearby tutors using AI-based
+preference matching and GPS tracking. Built with React Native, Node.js,
+MongoDB, and Firebase.
+
 ## 📱 App Preview – Onboarding Screens
 
 A mobile application that connects students with nearby tutors using AI-based
