@@ -7,10 +7,12 @@ MongoDB, and Firebase.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9c56b813-53d3-4a15-b3a1-5f18118b11f7" 
        alt="TuiMate Get Started Screen" 
-       width="250" style="margin-right: 10px;" />
+       width="250" style="margin-right: 10px;"
+           style="border: 1px solid #ccc; border-radius: 10px; margin-right: 10px;" />/>
   <img src="https://github.com/user-attachments/assets/cdbe12f1-645d-436e-8ef9-b8958c60c951" 
        alt="TuiMate Role Selection Screen" 
-       width="250" />
+       width="250"
+    style="border: 1px solid #ccc; border-radius: 10px;" />/>
 </p>
 
 
