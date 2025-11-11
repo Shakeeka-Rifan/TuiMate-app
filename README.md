@@ -103,7 +103,8 @@ Encrypted data transmission between frontend and backend.
 
 
 
-🏆 Acknowledgments
+## 🏆 Acknowledgments
+
 Developed as part of the Final Year Project (University of Bedfordshire)
 Special thanks to mentors and peers who provided feedback throughout development.
 
